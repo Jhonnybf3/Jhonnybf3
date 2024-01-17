@@ -1,3 +1,4 @@
+
  
 <!--título-->
 <div id="user-content-toc">
@@ -9,8 +10,8 @@
 <p>
   Hi, I'm Jhonny! Brazilian, living in Portugal.
 
-  -  I’m IT student passionate about technologies />
-  -  hope to soon take off in the world of programming.
+  - ❤️ I’m IT student passionate about technologies.
+  - 📈 hope to soon take off in the world of programming.
 </p>
 
 <p>
@@ -28,16 +29,24 @@
      
 </div><br>
 
-<div align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=jhonnybf3&show_icons=true&theme=dracula"
-       alt="" /></a>
-</div>
-<div> 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnybf3)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--temas: github_dark, discord_old_blurple, ocean_dark, gotham  -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jhonnybf3&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jhonnybf3&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonnybf3&show_icons=true" />
+</picture>
+
+
 
 
 <!--tec -->
-<h2>Technologies I use in my learning process </h2>
+#### Technologies I use in my learning process 
   <div style="flex-basis: 48%;">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
