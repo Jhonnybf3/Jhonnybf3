@@ -30,7 +30,7 @@
 </div><br>
 
 <!--temas: github_dark, discord_old_blurple, ocean_dark, gotham  -->
-<!---<picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jhonnybf3&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark)"
@@ -40,7 +40,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=jhonnybf3&show_icons=true" />
-</picture> -->
+</picture> 
 
 
 
